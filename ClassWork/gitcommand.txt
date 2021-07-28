@@ -1,5 +1,5 @@
-Ben Mathew
-benabraham20198@gmail.com
+//Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. //
+// HomeWork:Difference of git and //
 git init - Helps us to initialize git repository.
 git add . - Helps us to stage files.
 git commit -m "Message" - Help us to release anything.

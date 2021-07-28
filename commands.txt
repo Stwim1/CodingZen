@@ -1,0 +1,8 @@
+1. dir - Helps us to see what are the folders inside the given directory.
+2. mkdir - Helps us to create a folder.
+3. rmdir - Helps us to remove directory.
+4. pwd - Helps us know the current path.
+5. cd - Helps us to change directory.
+6. echo. >NewFile - Helps us to create a NewFile.
+7. move - Helps us to move a folder to another folder.
+8. xcopy - Helps us to copy a directory.

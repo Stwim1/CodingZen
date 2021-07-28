@@ -1,0 +1,7 @@
+Ben Mathew
+benabraham20198@gmail.com
+git init - Helps us to initialize git repository.
+git add . - Helps us to stage files.
+git commit -m "Message" - Help us to release anything.
+git log - Helps us to see all the info of all the commits.
+git revert "hash" -m "Message" - Helps us to revert back a change.
